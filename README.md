@@ -1,4 +1,4 @@
-# geekwise-javascript-template
+# JS project
 
 music box or drum pad
 download tones

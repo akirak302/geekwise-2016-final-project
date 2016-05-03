@@ -1,4 +1,12 @@
 h1{
-  color: red;
-  
+  text-align: center;
+
+}
+
+.row{
+  height: 50px;
+}
+
+.col-sm-3{
+  height: 200px;
 }

@@ -5,7 +5,7 @@ var html5_audiotypes={
 
 function createsoundbite(sound){
 	var html5audio=document.createElement('audio');
-	if (html5audio.canPlayType){ //check support for HTML5 audio
+	if (html5audio.canPlayType){ 
 		for (var i=0; i<arguments.length; i++){
 			var sourceel=document.createElement('source');
 			sourceel.setAttribute('src', arguments[i]);
